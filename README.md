@@ -268,4 +268,4 @@ This repository serves as the official landing page for Subtitle Edit. The softw
 **Get the most recent version of Subtitle Edit today!**
 
 ---
-**Last updated:** 2026-10-27 07:28:44 UTC
+**Last updated:** 2026-10-27 14:08:23 UTC
